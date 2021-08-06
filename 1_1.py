@@ -4,3 +4,4 @@ myfloat = float(input('введите дробь'))
 mytext = input('Введите текст')
 print ('Ваше число -',myNumber,'\nВаша дробь -',myfloat,'\nВаш текст -',mytext)
 print ('Вы ввели все правильно!')
+#test
